@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-blue-design: #011632;
+  --color-mid-blue-design: #1376f8;
+  --color-sky-blue-design: #25b4f8;
+  --color-secondary: #ffffff;
+  --color-body: #3c4959;
+  --color-succes: #17bf28;
+  --color-error: #e52323;
+  --font-poppins: var(--font-poppins);
+  --shadow-drop: 0 8.33 41.67 0 rgba(0, 0, 0, .8);
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.custom-phone-input input {
+  @apply h-10 w-full p-2.5 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-sky-500;
+}
+
+.admin {
+  background-image: linear-gradient(to right bottom, #011632, #002c5f, #00448f, #005dc2, #1376f8);
+}

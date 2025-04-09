@@ -1,0 +1,59 @@
+{
+  "Home": {
+    "title": " Get Ready for your best every",
+    "paragraph": "We use only the best quality materials on the market in order to provide the best products to our patients, So don't worry aboutanything and book yourself.",
+    "marked": "Dental Experience",
+    "btn1": "Book an appointement",
+    "btn2": "Dental 24H Emergency"
+  },
+  "Nav": {
+    "1": "Home",
+    "2": "Services",
+    "3": "Blogs",
+    "4": "About",
+    "5": "Contact"
+  },
+  "book": "Book Now",
+  "quote": {
+    "docQuote": "Top quality dental treatment done by field experts, Highly Recommended for everyone",
+    "role": "Sr Dental"
+  },
+  "formHolder": {
+    "title": "Make your book now",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "message": "Message",
+      "date": "Date and Time",
+      "send": "Send"
+    }
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit"
+  },
+  "submitForBook": {
+    "msg": "The Booking request has been sent, waiting for the doctor to call you back."
+  },
+  "dashboard": {
+    "greeting": "Good Morning Dr",
+    "docName": "Jhon Doe",
+    "requestsNumber": "New Booking Requests",
+    "noReqYet": "There is No booking requests yet",
+    "name": "Full Name",
+    "date": "Date Asked",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "status": "Status",
+    "pending": "pending",
+    "approved": "approved",
+    "rejected": "rejected",
+    "noPhone": "Patient didn't add any Phone Number",
+    "noMail": "Patient didn't add any email",
+    "logout": "Logout"
+  }
+}

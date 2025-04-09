@@ -1,0 +1,59 @@
+{
+  "Home": {
+    "title": " Préparez-vous à vivre votre meilleur jour",
+    "paragraph": "Nous utilisons uniquement les meilleurs matériaux de qualité du marché afin de fournir les meilleurs produits à nos patients, alors ne vous inquiétez de rien et réservez vous-même.",
+    "marked": "Expérience dentaire",
+    "btn1": "Prendre rendez-vous",
+    "btn2": "Urgence dentaire 24h/24"
+  },
+  "Nav": {
+    "1": "Acceuil",
+    "2": "Services",
+    "3": "Blogs",
+    "4": "À propos",
+    "5": "Contact"
+  },
+  "book": "Réservez maintenant",
+  "quote": {
+    "docQuote": "Top quality dental treatment done by field experts, Highly Recommended for everyone",
+    "role": "Dentiste senior"
+  },
+  "formHolder": {
+    "title": "Faites votre réservation maintenant",
+    "form": {
+      "name": "Nom et prénom",
+      "phone": "Numéro de téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "date": "Date et heure",
+      "send": "Envoyer"
+    }
+  },
+  "admin": {
+    "title": "Tableau de bord administrateur",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "submit": "Soumettre"
+  },
+  "submitForBook": {
+    "msg": "La demande de réservation a été envoyée ; en attente de rappel du médecin"
+  },
+  "dashboard": {
+    "greeting": "Bonjour docteur",
+    "docName": "Jhon Doe",
+    "requestsNumber": "Nouvelles demandes de réservation",
+    "noReqYet": "Il n'y a pas encore de demande de réservation",
+    "name": "Nom et prénom",
+    "date": "Date demandée",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "message": "Message",
+    "status": "Statut",
+    "pending": "en attente",
+    "approved": "approuvé",
+    "rejected": "rejeté",
+    "noPhone": "Le patient n'a ajouté aucun numéro de téléphone",
+    "noMail": "Le patient n'a ajouté aucune adresse e-mail",
+    "logout": "Déconnexion"
+  }
+}
